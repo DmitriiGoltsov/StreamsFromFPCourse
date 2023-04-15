@@ -1,0 +1,1 @@
+## This project contains the very first tasks about Streams in Java. 
